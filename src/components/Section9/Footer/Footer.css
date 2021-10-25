@@ -1,0 +1,43 @@
+p{
+    color: grey;
+    margin-bottom: 0.5rem !important;
+}
+h4{
+    margin-bottom: 20px !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+}
+.Read{
+    color: red;
+    text-decoration: none;
+}
+.businessBtn{
+    box-shadow: rgb(16 25 40 / 10%) 0px 4px 6px 0px;
+    margin: 0px;
+    padding: 11px 15px;
+    width: 30%;
+}
+.customerBtn{
+    box-shadow: rgb(16 25 40 / 10%) 0px 4px 6px 0px;
+    margin: 0px;
+    padding: 11px 15px;
+    background: #e34a21;
+    color: #fff !important;
+    width: 30%;
+}
+
+.icon{
+    padding: 10px;
+    font-size: 20px;
+    color: gray;
+}
+
+@media screen and (max-width: 992px) {
+    .footerComp{
+        text-align: center !important;
+    }
+    h4{
+        margin-top: 20px !important;
+        margin-bottom: 5px !important;
+    }
+}

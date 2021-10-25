@@ -1,0 +1,14 @@
+.cardText{
+    color: #A4A1AE;
+    font-size: 13px;
+}
+
+.cardHeading{
+    font-size: 15px;
+}
+
+.checked {
+    color: orange;
+    padding: 0px 1px;
+    margin-bottom: 0.5rem;
+}

@@ -1,0 +1,30 @@
+.navbarcopm{
+    position: absolute !important;
+    width: 100%;
+}
+.navbar{
+    /* background-color: transparent !important; */
+    -webkit-transition: background-color .5s;
+    -o-transition: background-color .5s;
+    -moz-transition: background-color .5s;
+    transition: background-color .5s;
+    height: 75px;
+    max-width: 1920px;
+    margin: 0 auto;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* height: 5rem; */
+    z-index: 2;
+  
+  }
+
+.nav-link{
+    color: 'white' !important;
+}
+
+#nav-right-elements{
+    color: 'white' !important;
+}

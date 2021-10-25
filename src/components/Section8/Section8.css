@@ -1,0 +1,71 @@
+.btn-career {
+    padding: 24px !important;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    box-shadow: rgb(16 25 40 / 8%) 0px 4px 8px 0px;
+    margin-bottom: 16px;
+    -webkit-box-align: center;
+    border-radius: 16px !important;
+    background: white !important;
+    transition: box-shadow 300ms ease 0s, transform 300ms ease 0s !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.align-items-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+
+.d-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+
+.bg-white {
+    background-color: #fff !important;
+}
+
+.career-head-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    color: rgb(16, 25, 40);
+    margin: 0px 0px 8px;
+}
+
+.smallest-btn{
+    font-size: 12px;
+    background-color: white !important;
+    box-shadow: rgb(16 25 40 / 10%) 0px 4px 6px 0px;
+}
+
+.descClassName7{
+    letter-spacing: 0px;
+    min-width: 0px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    color: grey;
+    margin: 0px 0px 30px;
+}
+
+.headingClass7{
+    color: black;
+    padding-bottom: 20px !important;
+}
+
+.img8{
+   
+    width: 400px !important;
+    height: 600px !important;
+}
+
+.imgPart{
+    text-align: right ;
+}

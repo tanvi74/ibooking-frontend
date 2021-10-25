@@ -1,0 +1,15 @@
+button{
+    padding: 11px 15px !important;
+    border-radius: 10px !important;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+.imgPart7{
+    text-align: center !important;
+}
+
+.img7{
+    width: 600px ; 
+    height: 350px ;
+}

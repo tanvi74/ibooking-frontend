@@ -1,0 +1,137 @@
+.small{
+    display: block;
+    font-size: 11px;
+    line-height: 12px;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    text-align: left;
+    overflow-y: hidden;
+}
+
+.big{
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    line-height: 16px;
+    font-weight: 700;
+    overflow-y: hidden;
+}
+
+button{
+    color: black;
+    padding: 0px !important ;
+    border:none !important;
+}
+
+.apple-store-btn:hover{
+    background-color: black !important;
+    color: white !important;
+}
+
+.btn-app-store{
+    background: #fff;
+    color: #000;
+    position: relative;
+    height: 60px;
+    padding-left: 50px;
+    padding-right: 10px;
+    width: 160px;
+    padding-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.apple-btn{
+    width: 180px;
+    
+}
+
+.apple-store-btn{
+    margin-left: 10px;
+    padding: 0px !important;
+    overflow: unset;
+}
+
+
+.google-store-btn{
+    padding: 0px !important;
+    overflow: unset;
+}
+
+.btn-app-store i {
+    font-size: 40px;
+    position: absolute;
+    left: 10px;
+}
+
+.btns{
+    margin-top: 30px;
+}
+
+.img6{
+    width: 400px;
+    height: 400px;
+}
+
+.part2{
+    margin-top: 7rem !important;
+}
+
+@media screen and (max-width: 992px) {
+    .img6{
+        width: 350px;
+        height: 350px;
+        text-align: center;
+    }
+    .part2{
+        margin-top: 5rem !important;
+    }
+
+    .img7{
+        margin-top: 50px;
+        width: 400px !important;
+    }
+    .imgPart{
+        text-align: center !important;
+    }
+    .navbar-toggler-icon{
+        color: white !important;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .img6{
+        width: 200px;
+        height: 200px;
+        text-align: center !important;
+    }
+    .part2{
+        margin-top: 2rem !important;
+    }
+    .img7{
+        width: 250px !important;
+        height: 250px !important;
+    }
+    .navbar-toggler-icon{
+        color: white !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .part2{
+        margin-top: 2rem !important;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .apple-store-btn{
+        margin-left: 0px !important;
+        padding: 0px !important;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .btns{
+        text-align: center;
+    }
+}
